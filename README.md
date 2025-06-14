@@ -1,4 +1,4 @@
-<img align="right" height="100" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHVzdmI2M2JhbWpoaTZ6cHp3NHI0bWx2bm5la21lcmR2enlvN3JzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PS8myGd5ItNfBfitEp/giphy.gif"  />
+<img align="right" height="95" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHVzdmI2M2JhbWpoaTZ6cHp3NHI0bWx2bm5la21lcmR2enlvN3JzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PS8myGd5ItNfBfitEp/giphy.gif"  />
 
 ###
 
@@ -26,6 +26,10 @@
 
 ###
 
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWZjaTMxejVrYWZxY3g5ZTV4bGllODhkcGpvZGIzbG12dWozZGxmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lwxbF5KFsU3uQQF2iq/giphy.gif"  />
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -37,10 +41,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWZjaTMxejVrYWZxY3g5ZTV4bGllODhkcGpvZGIzbG12dWozZGxmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lwxbF5KFsU3uQQF2iq/giphy.gif"  />
 
 ###
 
@@ -78,14 +78,12 @@
 
 ###
 
-<img align="right" height="130" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2U5c2Z3NTczaG5uNDVhemZrN3A5NWVvcndqYW5yNGxsMHpqZm95ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3chqOFSQ58aSVTiZzi/giphy.gif"  />
+<img align="right" height="112" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2U5c2Z3NTczaG5uNDVhemZrN3A5NWVvcndqYW5yNGxsMHpqZm95ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3chqOFSQ58aSVTiZzi/giphy.gif"  />
 
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
