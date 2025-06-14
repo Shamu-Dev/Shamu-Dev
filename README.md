@@ -22,7 +22,11 @@
 
 ###
 
-<h3 align="left">~🧑🏻‍💻 Technology's I'm familiar with~</h3>
+<h2 align="left">~📝 Tech Stack~</h2>
+
+###
+
+<h3 align="left">- Technology's I'm familiar with</h3>
 
 ###
 
@@ -44,7 +48,7 @@
 
 ###
 
-<h3 align="left">~🧑🏻‍💻 Technology's I'm learning now~</h3>
+<h3 align="left">- Technology's I'm learning now</h3>
 
 ###
 
@@ -64,7 +68,7 @@
 
 ###
 
-<h3 align="left">~🧑🏻‍💻 Technology's I wanna learn~</h3>
+<h3 align="left">- Technology's I wanna learn</h3>
 
 ###
 
@@ -78,7 +82,7 @@
 
 ###
 
-<h3 align="left">~📨 Contact me~</h3>
+<h2 align="left">~📨 Contact me~</h2>
 
 ###
 
@@ -99,7 +103,7 @@
 
 ###
 
-<h3 align="left">~🎵 Check Out my Spotify~</h3>
+<h2 align="left">~🎵 Check Out my Spotify~</h2>
 
 ###
 
