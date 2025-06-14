@@ -2,11 +2,11 @@
 
 ###
 
-<h2 align="left">👋 Hi! I’m Shamuel, a Junior Full-Stack Developer (Student), from Mexico 🇲🇽.</h2>
+<h1 align="left">👋 Hi! I’m Shamuel, a Junior Full-Stack Developer (Student), from Mexico 🇲🇽.</h1>
 
 ###
 
-<h3 align="left">🙋🏻 About Me</h3>
+<h2 align="left">~🙋🏻 About Me~</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="left">💻 Experience</h3>
+<h2 align="left">~💻 Experience~</h2>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left">🧑🏻‍💻 Technology's I'm familiar with</h3>
+<h3 align="left">~🧑🏻‍💻 Technology's I'm familiar with~</h3>
 
 ###
 
@@ -44,7 +44,7 @@
 
 ###
 
-<h3 align="left">🧑🏻‍💻 Technology's I'm learning now</h3>
+<h3 align="left">~🧑🏻‍💻 Technology's I'm learning now~</h3>
 
 ###
 
@@ -64,7 +64,7 @@
 
 ###
 
-<h3 align="left">🧑🏻‍💻 Technology's I wanna learn</h3>
+<h3 align="left">~🧑🏻‍💻 Technology's I wanna learn~</h3>
 
 ###
 
@@ -78,7 +78,7 @@
 
 ###
 
-<h3 align="left">📨 Contact me</h3>
+<h3 align="left">~📨 Contact me~</h3>
 
 ###
 
@@ -99,7 +99,7 @@
 
 ###
 
-<h3 align="left">🎵 Check Out my Spotify</h3>
+<h3 align="left">~🎵 Check Out my Spotify~</h3>
 
 ###
 
